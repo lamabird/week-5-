@@ -1,2 +1,9 @@
-.headings{color:red;}
-.paragraph_background {background-color: beige;}
+.headings {
+  color: red;
+}
+.paragraph_paras {
+  background-color: beige;
+}
+#london-heading {
+  color: pink;
+}
