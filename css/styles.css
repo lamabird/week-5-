@@ -7,3 +7,15 @@
 #london-heading {
   background-color: pink;
 }
+html {
+  scroll-behavior: smooth;
+}
+.filler-text {
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top: 2px black groove;
+  border-bottom: 4px grey groove;
+}
+.paragraph-filler { border:10px lightgreen ridge;
+    margin:5px ;
+}
